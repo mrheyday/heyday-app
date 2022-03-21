@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Standard Hashrate",
+    "slug": "standard Hashrate-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/icon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyDSHHmPP6kF2RA8E_TencBEnNoKscc2PEg",
+          "authDomain": "btcst-3c5ea.firebaseapp.com",
+          "projectId": "btcst-3c5ea",
+          "storageBucket": "btcst-3c5ea.appspot.com",
+          "messagingSenderId": "570434728722",
+          "appId": "1:570434728722:web:ab940df4887c07900679cb",
+          "measurementId": "G-S2Q9R2DXSP"
+        }
+      }
+    }
+  }
+}
