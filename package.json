@@ -22,7 +22,7 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.9.0",
     "@react-navigation/native": "^5.7.4",
-    "@sushiswap/core": "^1.4.1",
+    "@sushiswap/core": "^1.4.2",
     "@sushiswap/sdk": "^3.0.0",
     "@sushiswap/settlement": "^0.8.0",
     "@sushiswap/sushi-data": "^0.0.8",
